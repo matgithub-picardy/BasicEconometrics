@@ -4,4 +4,4 @@ numpy
 matplotlib
 seaborn
 statsmodels
-wooldbridge
+wooldridge
