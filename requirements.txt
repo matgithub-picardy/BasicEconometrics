@@ -1,7 +1,9 @@
-pandas
-openpyxl
-numpy
 matplotlib
+numpy
+openpyxl
+pandas
+patsy
+scipy
 seaborn
 statsmodels
 wooldridge
